@@ -8,6 +8,6 @@
   * (4) Given a length n, the program should be able to identify all repeats of length n in all sequences in the FASTA file. The program should also determine how many times each repeat occurs in the file, and which is the most frequent repeat of a given length.
 
 # Files
-- `DNA-seq.py` - Python script for answering the questions
+- `DNA-seq.py` - Python script for answering questions
 
 - `dna.fasta` - example file to test Python script
